@@ -5,7 +5,7 @@
 
 ## **Support my work:**
 
-##  **Learn Python and R for FREE:**
+##  **Hello:**
 
 ## **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipeshrijal)
